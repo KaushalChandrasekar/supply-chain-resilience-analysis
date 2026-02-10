@@ -5,7 +5,7 @@
 This project presents an end-to-end data analytics study focused on supply chain resilience.
 Using a transactional supply chain dataset, the analysis explores order delays, disruption patterns, logistics modes, and risk exposure to uncover actionable insights that support operational decision-making.
 
-The goal of this project is to demonstrate a complete data analytics workflow, from raw data cleaning to insight generation, suitable for Data Analyst / Risk Analytics roles.
+The goal of this project is to demonstrate a complete data analytics workflow, from raw data cleaning to insight generation.
 
 ---
 
@@ -113,9 +113,13 @@ The project follows a structured analytics workflow:
 
 ## Repository Structure
 
-├── Supply_Chain_Resilience_Analysis.ipynb
+├── LICENSE
 
 ├── README.md
+
+├── Supply_Chain_Resilience_Analysis.ipynb
+
+├── supply_chain_resilience_dataset.csv
 
 ---
 
